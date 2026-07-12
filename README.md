@@ -32,8 +32,12 @@ root@0xZiki:~# ./current_focus.sh
 - 📖 **Deep-Diving:** Documenting knowledge in Obsidian (From Low-level System Admin to Network Pentesting).
 
 ## 📡 Radar & Recon (Stats)
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=0xZiki&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xZiki&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
-</p>
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=0xZiki&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117)
+
+<br>
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=0xZiki&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117)
+
+</div>
