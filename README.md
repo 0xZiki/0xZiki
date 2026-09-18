@@ -1,22 +1,17 @@
-# ⚡ [DECRYPTING 0xZiki (AHMED ELZEKY)]
-### 💻 CS UNDERGRADUATE @ MANSOURA UNIVERSITY | OFFENSIVE SECURITY ENTHUSIAST
+# ⚡# [DECRYPTING 0xZiki (AHMED ELZEKY)]
+### 💻 CS UNDERGRADUATE @ MANSOURA UNIVERSITY | OFFENSIVE TOOL ARCHITECT & NETWORK PENTESTER
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00FF66&center=true&vCenter=true&width=800&lines=[STREAMING:+Understanding+the+'why'+behind+the+vulnerability...];[Prioritizing+Infrastructure+before+Exploitation...];[Crafting+Offensive+Tools+with+Python];[Root@0xZiki:~#+whoami]" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00FF66&center=true&vCenter=true&width=800&lines=[STREAMING:+Understanding+the+'why'+behind+the+mechanics...];[Prioritizing+Infrastructure+and+Protocols+before+Exploitation...];[Engineering+High-Concurrency+Offensive+Engines+with+Python];[Root@0xZiki:~#+whoami]" alt="Typing SVG" />
   </a>
 </p>
 
 ```console
-root@0xZiki:~# cat mindset.txt
-My approach to cybersecurity is strictly foundational. I prioritize understanding the underlying 
-infrastructure (OS Internals, TCP/IP, DNS) before touching any exploitation frameworks.
-
-root@0xZiki:~# ./current_focus.sh
-[*] Infrastructure Fundamentals & Network Protocols
-[*] Network Penetration Testing (Active Reconnaissance, Vuln Assessment)
-[*] Post-Exploitation (Privilege Escalation, C2, Pivoting)
-[*] Scripting & Automation (Python & C++)
+root@0xZiki:~# cat focus.txt
+[*] Focus: High-Concurrency Tool Architecture, Network Sockets & Protocol Mechanics
+[*] Labs: Enterprise Active Directory & Infrastructure Exploitation (OffSec PG & HTB)
+[*] Stack: Python (Asyncio / Raw Sockets), C/C++ Systems Foundations, Linux / Bash
 ```
 
 ## 🛠️ Arsenal & Tech Stack
@@ -29,13 +24,7 @@ root@0xZiki:~# ./current_focus.sh
 </p>
 
 ## 🎯 Current Operations
-*   **⚙️ Building:** Developing 4 Python Automation Tools (Inspired by *Black Hat Python*).
-*   **🚩 Wargames:** Conquering OverTheWire: Bandit to master Linux command-line fu.
-*   **📖 Deep-Diving:** Documenting knowledge in Obsidian (From Low-level System Admin to Network Pentesting).
+*   **⚙️ Tool Architecture:** Engineering high-performance asynchronous security frameworks and low-level network discovery engines.
+*   **🏢 Enterprise Labs:** Breaking down realistic Active Directory and Linux environments across OffSec Proving Grounds and HackTheBox.
+*   **📖 Deep-Diving:** Researching low-level network protocol specifications (RFCs), system call mechanics, and tradecraft documentation
 
-## ⚔️ Cyber Warfare (CTF Metrics)
-<p align="center">
-  <a href="https://tryhackme.com/p/ahmedelzeky2446">
-    <img src="https://tryhackme-badges.esidoc.com/badge/ahmedelzeky2446" alt="TryHackMe Badge" />
-  </a>
-</p>
