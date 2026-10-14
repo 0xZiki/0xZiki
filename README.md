@@ -1,4 +1,4 @@
-# ⚡ Ahmed Sophy Elzeky (0xZiki)
+#  Ahmed Sophy Elzeky (0xZiki)
 
 <p align="left">
   <strong>Cybersecurity Software Engineer & Offensive Tool Architect</strong><br>
@@ -13,7 +13,7 @@
 
 ---
 
-### 📖 Flagship Publication (The Core Research)
+###  Flagship Publication (The Core Research)
 
 <table border="0">
   <tr>
@@ -30,14 +30,14 @@
       <br><br>
       <strong>Standard:</strong> ISO B5 Trim • Typeset with Typst • Fully Open-Source (CC BY-NC-SA 4.0)<br>
       <strong>Academic Registration:</strong> <a href="https://doi.org/10.5281/zenodo.23282927">DOI: 10.5281/zenodo.23282927</a> (CERN / Zenodo Indexed)<br>
-      👉 <strong><a href="https://github.com/0xZiki/Active-Directory-Protocol-Internals">Read Online or Download Release</a></strong>
+       <strong><a href="https://github.com/0xZiki/Active-Directory-Protocol-Internals">Read Online or Download Release</a></strong>
     </td>
   </tr>
 </table>
 
 ---
 
-### 🛡️ Production Offensive Tooling & Network Engines
+###  Production Offensive Tooling & Network Engines
 
 I build high-performance, low-level networking and reconnaissance tooling from the ground up, avoiding third-party dependencies to maintain raw socket control and protocol fidelity:
 
@@ -46,7 +46,7 @@ I build high-performance, low-level networking and reconnaissance tooling from t
 
 ---
 
-### 🔬 Core Technical Stack & Applied Domains
+###  Core Technical Stack & Applied Domains
 
 ```text
 ┌─────────────────────────┬────────────────────────────────────────────────────────┐
